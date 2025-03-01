@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    background-image: /*radial-gradient(center rgba(212, 27, 27, 0)50%,rgba(11, 134, 67, 0.7)100%),*/ url('netflix.jpg');
+    background-image: radial-gradient(center rgba(212, 27, 27, 0)50%,rgba(11, 134, 67, 0.7)100%), url('netflix.jpg');
     background-size: cover;
    background-repeat: no-repeat;
    background-position:50%;
